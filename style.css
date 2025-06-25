@@ -5,3 +5,14 @@ body{
   font-weight: weight;
   font-style: normal;
 }
+.a{ padding: 12px;
+    margin-left: 440px;
+    margin-top: 80px;
+    height: max-content;
+    width: fit-content;
+    background-color: hsl(0, 0%, 100%);
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: solid hsl(0, 0%, 7%);
+    box-shadow: 4px 5px 6px hsl(0, 0%, 0%);
+}
