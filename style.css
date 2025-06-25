@@ -19,7 +19,8 @@ body{
 .p{
     font-size: 16px;
 }
-.l{ margin-left: 3px;
+.l{ border-radius:5px;
+    margin-left: 3px;
     width: 30%;
     justify-content: left;
     background-color: hsl(47, 88%, 63%);
