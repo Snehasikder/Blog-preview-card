@@ -16,3 +16,6 @@ body{
     border: solid hsl(0, 0%, 7%);
     box-shadow: 4px 5px 6px hsl(0, 0%, 0%);
 }
+.p{
+    font-size: 16px;
+}
