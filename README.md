@@ -22,9 +22,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 I learnt patience and motivation.
 
 ## Author
+- Website - [Snehasikder](https://github.com/Snehasikder)
+- Frontend Mentor - [@Snehasikder](https://www.frontendmentor.io/profile/Snehasikder
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-  
 ## Acknowledgments
 I would acknowledge frontend mentor for its challenge.
