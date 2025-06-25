@@ -19,7 +19,7 @@ body{
 .p{
     font-size: 16px;
 }
-.l{ border-radius:5px;
+.l{ border-radius: 8px;
     margin-left: 3px;
     width: 30%;
     justify-content: left;
