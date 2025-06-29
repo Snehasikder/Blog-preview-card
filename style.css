@@ -5,9 +5,7 @@ body{
   font-weight: 600;
   font-style: normal;
 }
-.a{ padding: 12px;
-    margin-left: 440px;
-    margin-top: 80px;
+.a{ padding: 2rem;
     height: max-content;
     width: fit-content;
     background-color: hsl(0, 0%, 100%);
