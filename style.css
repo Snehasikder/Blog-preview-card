@@ -11,8 +11,8 @@ body{
   min-height: 100vh;
 }
 .a{
-    padding: 2rem;
-    min-height: 100vh;
+    padding: 1.5rem;
+    margin-top: 80px;
     width: fit-content;
     background-color: hsl(0, 0%, 100%);
     box-sizing: border-box;
