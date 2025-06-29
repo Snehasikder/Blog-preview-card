@@ -25,9 +25,11 @@ body{
 .p{
     font-size: 16px;
 }
-.l{ border-radius: 8px;
+.l{
+    border-radius: 8px;
     margin-left: 3px;
     width: 30%;
+    max-width: 1.5rem;
     justify-content: left;
     background-color: hsl(47, 88%, 63%);
 }
