@@ -13,7 +13,8 @@ body{
 .a{
     padding: 1.5rem;
     margin-top: 80px;
-    width: fit-content;
+    width: 100%;
+    max-width: 400px;
     background-color: hsl(0, 0%, 100%);
     box-sizing: border-box;
     border-radius: 12px;
