@@ -5,6 +5,7 @@ body{
   font-weight: 600;
   font-style: normal;
   display: flex;
+  flex-direction: column;
   align-items: flex-start;
   justify-content: center;
   padding: 2rem;
