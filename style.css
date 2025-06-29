@@ -68,11 +68,11 @@ h5{ margin-bottom: 3px;
     margin-left: 0;
   }
 
-  h5 {
+/*   h5 {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.5rem;
-  }
+  } */
 
   .i {
     flex-direction: column;
